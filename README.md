@@ -1,10 +1,12 @@
 <!-- 🚀 NEON GLOW GITHUB README 🚀 -->
-<div style="background-color: black; padding: 20px; border-radius: 10px; text-align: center;">
+<div style="background-color: black; padding: 20px; border-radius: 15px; text-align: center;">
 
+  <!-- Typing Animation -->
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=👾+Hello+World!+I'm+Arya+Mehta!;🚀+19+y/o+Developer+%7C+Tech+Enthusiast;💡+Passionate+about+AI,+Coding+%26+Cyberpunk;🔥+Building+Awesome+Projects!;🌟+Follow+for+More+Tech+Content!;" alt="Typing SVG" />
   </h1>
 
+  <!-- GitHub Badges -->
   <p align="center">
     <img src="https://img.shields.io/github/followers/aryamehta0302?color=00FF7F&logo=GitHub&style=for-the-badge">
     <img src="https://img.shields.io/github/stars/aryamehta0302?color=00FFD1&logo=GitHub&style=for-the-badge">
@@ -13,47 +15,37 @@
 
   <br>
 
+  <!-- 🧑‍🚀 WHO AM I? - Cyberpunk Glow Edition -->
   <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF007F&center=true&vCenter=true&width=800&lines=🧑‍🚀+Who+Am+I?;👨‍💻+Passionate+Developer!;🚀+AI+%26+Tech+Enthusiast;💻+Building+the+Future+One+Line+at+a+Time!" alt="Typing SVG" />
   </h2>
 
-  <table align="center" width="80%" style="border: 3px solid #ff007f; background-color: rgba(0, 0, 0, 0.9); border-radius: 15px; padding: 15px; font-size: 22px;">
-    <tr>
-      <td><b style="color:#ff007f; text-shadow: 0 0 15px #ff007f;">👨‍💻 Name:</b></td>
-      <td style="color:#00ffff; text-shadow: 0 0 15px #00ffff;">Arya Mehta</td>
-    </tr>
-    <tr>
-      <td><b style="color:#ff007f; text-shadow: 0 0 15px #ff007f;">🎂 Age:</b></td>
-      <td style="color:#00ffff; text-shadow: 0 0 15px #00ffff;">19</td>
-    </tr>
-    <tr>
-      <td><b style="color:#ff007f; text-shadow: 0 0 15px #ff007f;">🏫 Studying:</b></td>
-      <td style="color:#00ffff; text-shadow: 0 0 15px #00ffff;">CHARUSAT</td>
-    </tr>
-    <tr>
-      <td><b style="color:#ff007f; text-shadow: 0 0 15px #ff007f;">💡 Skills:</b></td>
-      <td>
-        <ul>
-          <li style="color:#00ffff; text-shadow: 0 0 15px #00ffff;">Java ☕</li>
-          <li style="color:#00ffff; text-shadow: 0 0 15px #00ffff;">Python 🐍</li>
-          <li style="color:#00ffff; text-shadow: 0 0 15px #00ffff;">Data Science 📊</li>
-          <li style="color:#00ffff; text-shadow: 0 0 15px #00ffff;">Web Development 🌐</li>
-          <li style="color:#00ffff; text-shadow: 0 0 15px #00ffff;">AI & Machine Learning 🤖</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td><b style="color:#ff007f; text-shadow: 0 0 15px #ff007f;">🎮 Hobbies:</b></td>
-      <td>
-        <ul>
-          <li style="color:#00ffff; text-shadow: 0 0 15px #00ffff;">Gaming 🎮</li>
-          <li style="color:#00ffff; text-shadow: 0 0 15px #00ffff;">Watching Anime 🎌</li>
-          <li style="color:#00ffff; text-shadow: 0 0 15px #00ffff;">Coding 💻</li>
-          <li style="color:#00ffff; text-shadow: 0 0 15px #00ffff;">Listening to Music 🎵</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+  <!-- Glowing Bio Section -->
+  <div align="center" style="
+    background: rgba(0, 0, 0, 0.9); 
+    border: 3px solid #FF007F; 
+    padding: 20px; 
+    width: 80%;
+    border-radius: 15px; 
+    box-shadow: 0 0 20px #FF007F;
+    font-size: 22px;
+  ">
+    <p style="color:#00FFFF; text-shadow: 0 0 15px #00FFFF;">
+      👨‍💻 <strong>Name:</strong> Arya Mehta
+    </p>
+    <p style="color:#FF007F; text-shadow: 0 0 15px #FF007F;">
+      🎂 <strong>Age:</strong> 19
+    </p>
+    <p style="color:#00FFD1; text-shadow: 0 0 15px #00FFD1;">
+      🏫 <strong>Studying:</strong> CHARUSAT
+    </p>
+    <p style="color:#FF007F; text-shadow: 0 0 15px #FF007F;">
+      💡 <strong>Skills:</strong> Java ☕ | Python 🐍 | Data Science 📊 | Web Dev 🌐 | AI & ML 🤖
+    </p>
+    <p style="color:#00FFFF; text-shadow: 0 0 15px #00FFFF;">
+      🎮 <strong>Hobbies:</strong> Gaming 🎮 | Anime 🎌 | Coding 💻 | Music 🎵
+    </p>
+  </div>
 
   <br>
 
