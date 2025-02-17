@@ -37,7 +37,7 @@
       🎂 <strong>Age:</strong> 19
     </p>
     <p style="color:#00FFD1; text-shadow: 0 0 15px #00FFD1;">
-      🏫 <strong>Studying:</strong> CHARUSAT
+      🏢 <strong>Studying:</strong> CHARUSAT
     </p>
     <p style="color:#FF007F; text-shadow: 0 0 15px #FF007F;">
       💡 <strong>Skills:</strong> Java ☕ | Python 🐍 | Data Science 📊 | Web Dev 🌐 | AI & ML 🤖
@@ -71,6 +71,16 @@
 
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamehta0302&bg_color=000000&color=00FFFF&line=FF007F&point=00FFD1&hide_border=true" alt="GitHub Contributions Graph">
+  </p>
+
+  <br>
+
+  <!-- ⚡ LIVE GITHUB ACTIVITY -->
+  <h2 align="center">
+    <span style="color:#ff007f; text-shadow: 0 0 15px #ff007f;">⚡ Live GitHub Activity</span>
+  </h2>
+  <p align="center">
+    <img src="https://github.com/aryamehta0302/aryamehta0302/raw/main/github-activity.svg" alt="GitHub Activity Stream">
   </p>
 
 </div>
