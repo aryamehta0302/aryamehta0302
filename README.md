@@ -80,8 +80,8 @@
     <span style="color:#ff007f; text-shadow: 0 0 15px #ff007f;">⚡ Live GitHub Activity</span>
   </h2>
   <p align="center">
-    <a href="https://github.com/aryamehta0302/aryamehta0302/blob/main/assets/github-activity.svg">
-      <img src="https://github.com/aryamehta0302/aryamehta0302/raw/main/assets/github-activity.svg" alt="GitHub Activity Stream">
+    <a href="https://github.com/aryamehta0302/aryamehta0302/blob/main/assests/github-activity.svg">
+      <img src="https://github.com/aryamehta0302/aryamehta0302/raw/main/assests/github-activity.svg" alt="GitHub Activity Stream">
     </a>
   </p>
 
