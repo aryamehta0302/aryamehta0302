@@ -5,8 +5,8 @@
   <img src="https://cdn.pixabay.com/photo/2016/11/23/00/40/japanese-symbol-1858399_960_720.jpg" width="100%" alt="Uchiha Clan Banner">
 
   <!-- Typing Animation -->
-  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=36&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=🌑+Welcome+to+the+Uchiha+Realm!;🚀+19+y/o+Developer+%7C+Anime+Lover;💡+Coding,+AI,+and+the+Mangekyō+Sharingan;🔥+Building+Powerful+Projects!;🌟+Follow+for+More+Tech+and+Anime+Content!;" alt="Typing SVG" />
+  <h1 align="center" style="font-size: calc(1.5rem + 1vw);">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=🌑+Welcome+to+the+Uchiha+Realm!;🚀+19+y/o+Developer+%7C+Anime+Lover;💡+Coding,+AI,+and+the+Mangekyō+Sharingan;🔥+Building+Powerful+Projects!;🌟+Follow+for+More+Tech+and+Anime+Content!;" alt="Typing SVG" />
   </h1>
 
   <!-- GitHub Badges - Uchiha Themed -->
@@ -31,7 +31,7 @@
     width: 80%;
     border-radius: 15px; 
     box-shadow: 0 0 20px #8A2BE2;
-    font-size: 22px;">
+    font-size: calc(0.9rem + 0.5vw);">
     <p style="color:#8A2BE2; text-shadow: 0 0 15px #8A2BE2;">👨‍💻 <strong>Name:</strong> Arya Mehta</p>
     <p style="color:#9400D3; text-shadow: 0 0 15px #9400D3;">🎂 <strong>Age:</strong> 19</p>
     <p style="color:#8A2BE2; text-shadow: 0 0 15px #8A2BE2;">🏢 <strong>Studying:</strong> CHARUSAT</p>
@@ -42,7 +42,7 @@
   <br>
 
   <!-- 🚀 GITHUB STATS SECTION 🚀 -->
-  <h2 align="center">📊 GitHub Stats</h2>
+  <h2 align="center" style="font-size: calc(1.25rem + 0.5vw);">📊 GitHub Stats</h2>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=aryamehta0302&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=9400D3" alt="GitHub Streak">
     <br>
@@ -54,7 +54,7 @@
   <br>
 
   <!-- 🔥 CONTRIBUTIONS GRAPH 🔥 -->
-  <h2 align="center">🔥 GitHub Contributions</h2>
+  <h2 align="center" style="font-size: calc(1.25rem + 0.5vw);">🔥 GitHub Contributions</h2>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamehta0302&bg_color=000000&color=8A2BE2&line=9400D3&point=8A2BE2&hide_border=true" alt="GitHub Contributions Graph">
   </p>
@@ -62,7 +62,7 @@
   <br>
 
   <!-- ⚡ LIVE GITHUB ACTIVITY -->
-  <h2 align="center">⚡ Live GitHub Activity</h2>
+  <h2 align="center" style="font-size: calc(1.25rem + 0.5vw);">⚡ Live GitHub Activity</h2>
   <p align="center">
     <img src="https://cdn.pixabay.com/photo/2018/02/22/17/03/madara-3169211_960_720.jpg" width="80%" alt="Madara Uchiha">
   </p>
