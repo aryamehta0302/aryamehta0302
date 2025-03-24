@@ -2,8 +2,8 @@
 <div style="background-color: black; padding: 20px; border-radius: 15px; text-align: center;">
 
   <!-- Uchiha Themed Banner -->
-  <img src="https://i.imgur.com/z7Z4hEr.gif" width="100%" alt="Uchiha Clan Banner">
-  
+  <img src="https://cdn.pixabay.com/photo/2016/11/23/00/40/japanese-symbol-1858399_960_720.jpg" width="100%" alt="Uchiha Clan Banner">
+
   <!-- Typing Animation -->
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=36&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=🌑+Welcome+to+the+Uchiha+Realm!;🚀+19+y/o+Developer+%7C+Anime+Lover;💡+Coding,+AI,+and+the+Mangekyō+Sharingan;🔥+Building+Powerful+Projects!;🌟+Follow+for+More+Tech+and+Anime+Content!;" alt="Typing SVG" />
@@ -11,8 +11,8 @@
 
   <!-- GitHub Badges - Uchiha Themed -->
   <p align="center">
-    <img src="https://img.shields.io/github/followers/aryamehta0302?color=8A2BE2&logo=Naruto&style=flat-square">
-    <img src="https://img.shields.io/github/stars/aryamehta0302?color=9400D3&logo=Naruto&style=flat-square">
+    <img src="https://img.shields.io/github/followers/aryamehta0302?color=8A2BE2&logo=GitHub&style=flat-square">
+    <img src="https://img.shields.io/github/stars/aryamehta0302?color=9400D3&logo=GitHub&style=flat-square">
     <img src="https://komarev.com/ghpvc/?username=aryamehta0302&color=8A2BE2&style=flat-square" alt="Profile Views">
   </p>
 
@@ -20,7 +20,7 @@
 
   <!-- 🎌 WHO AM I? - Uchiha Edition -->
   <h2 align="center">
-    <img src="https://i.imgur.com/2c6GxqJ.gif" width="50%" alt="Itachi Uchiha">
+    <img src="https://cdn.pixabay.com/photo/2015/07/28/21/35/japan-864510_960_720.jpg" width="50%" alt="Uchiha Symbol">
   </h2>
 
   <!-- Bio Section -->
@@ -64,6 +64,6 @@
   <!-- ⚡ LIVE GITHUB ACTIVITY -->
   <h2 align="center">⚡ Live GitHub Activity</h2>
   <p align="center">
-    <img src="https://i.imgur.com/Ghz7icA.gif" width="80%" alt="Madara Uchiha">
+    <img src="https://cdn.pixabay.com/photo/2018/02/22/17/03/madara-3169211_960_720.jpg" width="80%" alt="Madara Uchiha">
   </p>
 </div>
