@@ -1,88 +1,69 @@
-<!-- 🚀 NEON GLOW GITHUB README 🚀 -->
+<!-- 🎌 NARUTO UCHIHA-THEMED GITHUB README 🎌 -->
 <div style="background-color: black; padding: 20px; border-radius: 15px; text-align: center;">
 
+  <!-- Uchiha Themed Banner -->
+  <img src="https://i.imgur.com/z7Z4hEr.gif" width="100%" alt="Uchiha Clan Banner">
+  
   <!-- Typing Animation -->
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=2500&pause=1000&color=00FFD1&center=true&vCenter=true&width=800&lines=👾+Hello+World!+I'm+Arya+Mehta!;🚀+19+y/o+Developer+%7C+Tech+Enthusiast;💡+Passionate+about+AI,+Coding+%26+Cyberpunk;🔥+Building+Awesome+Projects!;🌟+Follow+for+More+Tech+Content!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=36&duration=2500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=🌑+Welcome+to+the+Uchiha+Realm!;🚀+19+y/o+Developer+%7C+Anime+Lover;💡+Coding,+AI,+and+the+Mangekyō+Sharingan;🔥+Building+Powerful+Projects!;🌟+Follow+for+More+Tech+and+Anime+Content!;" alt="Typing SVG" />
   </h1>
 
-  <!-- GitHub Badges -->
+  <!-- GitHub Badges - Uchiha Themed -->
   <p align="center">
-    <img src="https://img.shields.io/github/followers/aryamehta0302?color=00FF7F&logo=GitHub&style=for-the-badge">
-    <img src="https://img.shields.io/github/stars/aryamehta0302?color=00FFD1&logo=GitHub&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=aryamehta0302&color=FF007F&style=flat-square" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/aryamehta0302?color=8A2BE2&logo=Naruto&style=flat-square">
+    <img src="https://img.shields.io/github/stars/aryamehta0302?color=9400D3&logo=Naruto&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=aryamehta0302&color=8A2BE2&style=flat-square" alt="Profile Views">
   </p>
 
   <br>
 
-  <!-- 🧑‍🚀 WHO AM I? - Cyberpunk Glow Edition -->
+  <!-- 🎌 WHO AM I? - Uchiha Edition -->
   <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FF007F&center=true&vCenter=true&width=800&lines=🧑‍🚀+Who+Am+I?;👨‍💻+Passionate+Developer!;🚀+AI+%26+Tech+Enthusiast;💻+Building+the+Future+One+Line+at+a+Time!" alt="Typing SVG" />
+    <img src="https://i.imgur.com/2c6GxqJ.gif" width="50%" alt="Itachi Uchiha">
   </h2>
 
-  <!-- Glowing Bio Section -->
+  <!-- Bio Section -->
   <div align="center" style="
     background: rgba(0, 0, 0, 0.9); 
-    border: 3px solid #FF007F; 
+    border: 3px solid #8A2BE2; 
     padding: 20px; 
     width: 80%;
     border-radius: 15px; 
-    box-shadow: 0 0 20px #FF007F;
-    font-size: 22px;
-  ">
-    <p style="color:#00FFFF; text-shadow: 0 0 15px #00FFFF;">
-      👨‍💻 <strong>Name:</strong> Arya Mehta
-    </p>
-    <p style="color:#FF007F; text-shadow: 0 0 15px #FF007F;">
-      🎂 <strong>Age:</strong> 19
-    </p>
-    <p style="color:#00FFD1; text-shadow: 0 0 15px #00FFD1;">
-      🏢 <strong>Studying:</strong> CHARUSAT
-    </p>
-    <p style="color:#FF007F; text-shadow: 0 0 15px #FF007F;">
-      💡 <strong>Skills:</strong> Java ☕ | Python 🐍 | Data Science 📊 | Web Dev 🌐 | AI & ML 🤖
-    </p>
-    <p style="color:#00FFFF; text-shadow: 0 0 15px #00FFFF;">
-      🎮 <strong>Hobbies:</strong> Gaming 🎮 | Anime 🎌 | Coding 💻 | Music 🎵
-    </p>
+    box-shadow: 0 0 20px #8A2BE2;
+    font-size: 22px;">
+    <p style="color:#8A2BE2; text-shadow: 0 0 15px #8A2BE2;">👨‍💻 <strong>Name:</strong> Arya Mehta</p>
+    <p style="color:#9400D3; text-shadow: 0 0 15px #9400D3;">🎂 <strong>Age:</strong> 19</p>
+    <p style="color:#8A2BE2; text-shadow: 0 0 15px #8A2BE2;">🏢 <strong>Studying:</strong> CHARUSAT</p>
+    <p style="color:#9400D3; text-shadow: 0 0 15px #9400D3;">💡 <strong>Skills:</strong> Java ☕ | Python 🐍 | Game Dev 🎮 | Web Dev 🌐 | AI & ML 🤖</p>
+    <p style="color:#8A2BE2; text-shadow: 0 0 15px #8A2BE2;">🎮 <strong>Hobbies:</strong> Gaming 🎮 | Anime 🎌 | Coding 💻 | Mastering the Mangekyō Sharingan 🔥</p>
   </div>
 
   <br>
 
   <!-- 🚀 GITHUB STATS SECTION 🚀 -->
-  <h2 align="center">
-    <span style="color:#ff007f; text-shadow: 0 0 15px #ff007f;">📊 GitHub Stats</span>
-  </h2>
-
+  <h2 align="center">📊 GitHub Stats</h2>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=aryamehta0302&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=FF007F&stroke=00FFFF" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=aryamehta0302&theme=tokyonight&hide_border=true&ring=8A2BE2&fire=9400D3" alt="GitHub Streak">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=aryamehta0302&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF007F&text_color=00FFFF&icon_color=00FFD1" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=aryamehta0302&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8A2BE2" alt="GitHub Stats">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamehta0302&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=FF007F&text_color=00FFFF" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamehta0302&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2" alt="Top Languages">
   </p>
 
   <br>
 
   <!-- 🔥 CONTRIBUTIONS GRAPH 🔥 -->
-  <h2 align="center">
-    <span style="color:#ff007f; text-shadow: 0 0 15px #ff007f;">🔥 GitHub Contributions</span>
-  </h2>
-
+  <h2 align="center">🔥 GitHub Contributions</h2>
   <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamehta0302&bg_color=000000&color=00FFFF&line=FF007F&point=00FFD1&hide_border=true" alt="GitHub Contributions Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamehta0302&bg_color=000000&color=8A2BE2&line=9400D3&point=8A2BE2&hide_border=true" alt="GitHub Contributions Graph">
   </p>
 
   <br>
 
   <!-- ⚡ LIVE GITHUB ACTIVITY -->
-  <h2 align="center">
-    <span style="color:#ff007f; text-shadow: 0 0 15px #ff007f;">⚡ Live GitHub Activity</span>
-  </h2>
+  <h2 align="center">⚡ Live GitHub Activity</h2>
   <p align="center">
-    <a href="https://github.com/aryamehta0302/aryamehta0302/blob/main/assests/github-activity.svg">
-      <img src="https://github.com/aryamehta0302/aryamehta0302/raw/main/assests/github-activity.svg" alt="GitHub Activity Stream">
-    </a>
+    <img src="https://i.imgur.com/Ghz7icA.gif" width="80%" alt="Madara Uchiha">
   </p>
-
 </div>
