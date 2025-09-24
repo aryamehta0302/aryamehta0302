@@ -1,7 +1,8 @@
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aryamehta0302/aryamehta0302/main/typing.svg" alt="Cool Typing Banner" />
+  <img src="https://raw.githubusercontent.com/aryamehta0302/aryamehta0302/main/typing.svg" alt="Arya Mehta Banner" />
 </p>
+
 
 
 
