@@ -5,7 +5,8 @@
       font-size: 30px;
       font-weight: 600;
       fill: url(#grad);
-      filter: drop-shadow(0 0 8px rgba(241,91,181,0.7));
+      filter: drop-shadow(0 0 6px rgba(241,91,181,0.6))
+              drop-shadow(0 0 12px rgba(155,93,229,0.4));
       opacity: 0;
       transform: translateY(20px);
       animation: fadeInUp 1.5s forwards;
@@ -19,6 +20,7 @@
       opacity: 0;
       animation-delay: 4.8s;
       animation-fill-mode: forwards;
+      filter: drop-shadow(0 0 6px #ff6ec7);
     }
 
     @keyframes fadeInUp {
