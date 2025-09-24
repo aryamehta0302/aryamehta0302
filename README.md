@@ -73,7 +73,8 @@
 
 ## ⌨️ Wakatime Coding Stats
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi+%F0%9F%91%8B+I'm+Arya+Mehta;Anime+Coder+%7C+AI%2FML+Dev+%7C+Java+%7C+Python+%7C+Node.js;Built+Jarvis+AI+Chatbot+%7C+Madara+Fan;Always+Building+Something+Cool+⚡" alt="Typing SVG" />
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zarco&theme=tokyonight" />
+
 </p>
 
 
