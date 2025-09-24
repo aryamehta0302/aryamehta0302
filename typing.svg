@@ -1,43 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160">
   <style>
-    .bg { fill: #0a0a0f; }
-    .t {
+    .text {
       font-family: 'Fira Code', monospace;
-      font-size: 26px;
-      fill: #f75c7e;
-      text-shadow: 0 0 8px #ff1e56, 0 0 20px #ff1e56;
+      font-size: 30px;
+      font-weight: 600;
+      fill: url(#grad);
+      filter: drop-shadow(0 0 8px rgba(241,91,181,0.7));
+      opacity: 0;
+      transform: translateY(20px);
+      animation: fadeInUp 1.5s forwards;
     }
+    .line2 { animation-delay: 1.6s; }
+    .line3 { animation-delay: 3.2s; }
     .cursor {
-      font-size: 26px;
-      fill: #00ffe0;
+      fill: #ff6ec7;
+      font-size: 30px;
       animation: blink 1s infinite;
+      opacity: 0;
+      animation-delay: 4.8s;
+      animation-fill-mode: forwards;
     }
-    @keyframes blink { 0%, 50% { opacity: 1; } 50.01%, 100% { opacity: 0; } }
+
+    @keyframes fadeInUp {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      50.01%, 100% { opacity: 0; }
+    }
   </style>
 
-  <!-- Background -->
-  <rect class="bg" width="100%" height="100%" rx="12" />
+  <!-- Gradient definition -->
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9b5de5"/>
+      <stop offset="100%" stop-color="#f15bb5"/>
+    </linearGradient>
+  </defs>
 
-  <!-- Animated text lines -->
-  <text x="40" y="50" class="t">
-    <tspan>
-      <animate attributeName="textLength" from="0" to="380" dur="2s" fill="freeze" />
-      Hi 👋 I'm Arya Mehta
-    </tspan>
-  </text>
+  <!-- Lines -->
+  <text x="40" y="60" class="text">Hi 👋 I'm Arya Mehta</text>
+  <text x="40" y="100" class="text line2">Anime Coder ⚡ | AI/ML Dev | Java | Python | Node.js</text>
+  <text x="40" y="140" class="text line3">Always Building Something Cool ✨</text>
 
-  <text x="40" y="85" class="t">
-    <tspan>
-      <animate attributeName="textLength" from="0" to="700" dur="2.5s" begin="2.2s" fill="freeze" />
-      Anime Coder ⚡ | AI/ML Dev | Java | Python | Node.js
-    </tspan>
-  </text>
-
-  <text x="40" y="120" class="t">
-    <tspan>
-      <animate attributeName="textLength" from="0" to="600" dur="2s" begin="4.9s" fill="freeze" />
-      Always Building Something Cool ✨
-    </tspan>
-    <tspan class="cursor">|</tspan>
-  </text>
+  <!-- Cursor -->
+  <text x="720" y="140" class="cursor">|</text>
 </svg>
