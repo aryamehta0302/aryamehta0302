@@ -71,11 +71,10 @@
 
 ---
 
-## ⌨️ Wakatime Coding Stats
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zarco&theme=tokyonight" />
-
+  <img src="https://media.gifdb.com/smithing-master-hewg-back-view-elden-ring-6zuen1w6uhb4byd1.gif" alt="Profile Banner" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" />
 </p>
+
 
 
 👉 Setup guide: [Wakatime GitHub Integration](https://github.com/anuraghazra/github-readme-stats#install-wakatime)
