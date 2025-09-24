@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="140" viewBox="0 0 800 140">
+  <style>
+    .bg { fill: #0a0a0f; }
+    .t {
+      font-family: 'Fira Code', monospace;
+      font-size: 26px;
+      fill: #f75c7e;
+      text-shadow: 0 0 8px #ff1e56, 0 0 20px #ff1e56;
+    }
+    .cursor {
+      font-size: 26px;
+      fill: #00ffe0;
+      animation: blink 1s infinite;
+    }
+    @keyframes blink { 0%, 50% { opacity: 1; } 50.01%, 100% { opacity: 0; } }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" width="100%" height="100%" rx="12" />
+
+  <!-- Animated text lines -->
+  <text x="40" y="50" class="t">
+    <tspan>
+      <animate attributeName="textLength" from="0" to="380" dur="2s" fill="freeze" />
+      Hi 👋 I'm Arya Mehta
+    </tspan>
+  </text>
+
+  <text x="40" y="85" class="t">
+    <tspan>
+      <animate attributeName="textLength" from="0" to="700" dur="2.5s" begin="2.2s" fill="freeze" />
+      Anime Coder ⚡ | AI/ML Dev | Java | Python | Node.js
+    </tspan>
+  </text>
+
+  <text x="40" y="120" class="t">
+    <tspan>
+      <animate attributeName="textLength" from="0" to="600" dur="2s" begin="4.9s" fill="freeze" />
+      Always Building Something Cool ✨
+    </tspan>
+    <tspan class="cursor">|</tspan>
+  </text>
+</svg>
