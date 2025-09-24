@@ -2,8 +2,8 @@ name: 🔄 Update GitHub Profile README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
-  workflow_dispatch:
+    - cron: "0 */6 * * *"   # Runs every 6 hours
+  workflow_dispatch:        # Manual trigger
   push:
     branches:
       - main
@@ -25,4 +25,6 @@ jobs:
       - name: Update Blog Posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/aryamehta0302, https://aryamehta0302.medium.com/feed"
+          feed_list: |
+            https://dev.to/feed/aryamehta0302
+            https://aryamehta0302.medium.com/feed
