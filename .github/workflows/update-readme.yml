@@ -15,7 +15,14 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
+      # Update GitHub Activity
       - name: Update Recent GitHub Activity
         uses: Readme-Workflows/recent-activity@v2
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Update Blog Posts
+      - name: Update Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/aryamehta0302, https://aryamehta0302.medium.com/feed"
