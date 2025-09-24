@@ -1,7 +1,8 @@
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hi+%F0%9F%91%8B+I%27m+Arya+Mehta;Anime+Coder+%7C+AI%2FML+Dev+%7C+Java+%7C+Python+%7C+Node.js;Built+Jarvis+AI+Chatbot+%7C+Madara+Fan;Always+Building+Something+Cool+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/aryamehta0302/aryamehta0302/main/typing.svg" alt="Cool Typing Banner" />
 </p>
+
 
 
 <h1 align="center">🌌 Welcome to My World of Code & Chakra ⚔️</h1>
