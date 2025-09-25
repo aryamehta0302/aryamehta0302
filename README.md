@@ -45,7 +45,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryamehta0302&theme=tokyonight&no-frame=true&margin-w=5&margin-h=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aryamehta0302&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&margin-h=5" />
 </p>
 
 ---
