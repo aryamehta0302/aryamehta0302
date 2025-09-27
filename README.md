@@ -53,7 +53,7 @@
 ## 📌 Pinned Projects
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=Weather-Predictor&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=Jarvis-AI-Chatbot&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=AIML-Department-chatbot&theme=tokyonight" />
 </p>
 
 ---
