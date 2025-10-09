@@ -13,7 +13,7 @@
 
 ## 👤 About Me
 - 🔥 AI/ML & Full-Stack Developer  
-- 🤖 Currently Building: `Jarvis - Voice-Powered AI Chatbot`  
+- 🤖 Currently Practicing: `AI Engineering & Machine Learning`  
 - 🎨 Anime Lover + Tech Enthusiast  
 - 💌 Email: **aryamehta0302@gmail.com**
 
