@@ -62,7 +62,7 @@
 
 ## 🎧 Now Playing (Auto-Updated Every 6 Hours)
 <!-- RANDOM_SONG -->
-> _A new random song appears here every 6 hours_
+🎧 **Now Playing:** https://youtu.be/oygrmJFKYZY
 
 ---
 
