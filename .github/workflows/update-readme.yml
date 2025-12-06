@@ -9,7 +9,7 @@ on:
       - main
 
 permissions:
-  contents: write            # 🔥 required for pushing updates
+  contents: write
 
 jobs:
   update-readme:
@@ -18,22 +18,24 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Update Recent GitHub Activity
-        uses: Readme-Workflows/recent-activity@v2.4.1   # 🔥 latest stable version
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}            # 🔥 correct field name
-
-      - name: Update Blog Posts
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: |
-            https://dev.to/feed/aryamehta0302
-            https://aryamehta0302.medium.com/feed
+      - name: Update Random Song
+        run: |
+          songs=("https://youtu.be/dQw4w9WgXcQ"
+                 "https://youtu.be/C0DPdy98e4c"
+                 "https://youtu.be/oygrmJFKYZY"
+                 "https://youtu.be/2vjPBrBU-TM"
+                 "https://youtu.be/kXYiU_JCYtU"
+                 "https://youtu.be/fLexgOxsZu0"
+                 "https://youtu.be/09R8_2nJtjg")
+          random_song=${songs[$RANDOM % ${#songs[@]}]}
+          echo "<!-- RANDOM_SONG -->" > random_song.txt
+          echo "🎧 **Now Playing:** $random_song" >> random_song.txt
+          sed -i '/<!-- RANDOM_SONG -->/r random_song.txt' README.md
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "📝 auto-update README" || echo "No changes to commit"
+          git commit -m "🎧 Auto update random music" || echo "No changes to commit"
           git push
