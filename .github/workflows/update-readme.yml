@@ -28,7 +28,11 @@ jobs:
                  "https://youtu.be/fLexgOxsZu0"
                  "https://youtu.be/09R8_2nJtjg")
           random_song=${songs[$RANDOM % ${#songs[@]}]}
-          sed -i '/<!-- RANDOM_SONG -->/!b;n;c\🎧 **Now Playing:** '"$random_song" README.md
+          echo "🎧 **Now Playing:** $random_song" > random_song.txt
+          # delete old Now Playing line (the line after the marker)
+          sed -i '/<!-- RANDOM_SONG -->/{n;d;}' README.md
+          # insert new Now Playing line after the marker
+          sed -i '/<!-- RANDOM_SONG -->/r random_song.txt' README.md
 
       - name: Commit changes
         run: |
