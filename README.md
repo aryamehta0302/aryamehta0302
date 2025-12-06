@@ -62,6 +62,8 @@
 
 ## 🎧 Now Playing (Auto-Updated Every 6 Hours)
 <!-- RANDOM_SONG -->
+<!-- RANDOM_SONG -->
+🎧 **Now Playing:** https://youtu.be/oygrmJFKYZY
 > _A new random song appears here every 6 hours_
 
 ---
