@@ -2,7 +2,7 @@ name: 🔄 Update GitHub Profile README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # Runs every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -28,9 +28,7 @@ jobs:
                  "https://youtu.be/fLexgOxsZu0"
                  "https://youtu.be/09R8_2nJtjg")
           random_song=${songs[$RANDOM % ${#songs[@]}]}
-          echo "<!-- RANDOM_SONG -->" > random_song.txt
-          echo "🎧 **Now Playing:** $random_song" >> random_song.txt
-          sed -i '/<!-- RANDOM_SONG -->/r random_song.txt' README.md
+          sed -i '/<!-- RANDOM_SONG -->/!b;n;c\🎧 **Now Playing:** '"$random_song" README.md
 
       - name: Commit changes
         run: |
