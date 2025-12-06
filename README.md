@@ -3,10 +3,6 @@
   <img src="https://raw.githubusercontent.com/aryamehta0302/aryamehta0302/main/typing.svg" alt="Arya Mehta Banner" />
 </p>
 
-
-
-
-
 <h1 align="center">🌌 Welcome to My World of Code & Chakra ⚔️</h1>
 
 ---
@@ -64,6 +60,12 @@
 
 ---
 
+## 🎧 Now Playing (Auto-Updated Every 6 Hours)
+<!-- RANDOM_SONG -->
+> _A new random song appears here every 6 hours_
+
+---
+
 ## 📡 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamehta0302&theme=tokyo-night" />
@@ -75,17 +77,11 @@
   <img src="https://media.gifdb.com/smithing-master-hewg-back-view-elden-ring-6zuen1w6uhb4byd1.gif" alt="Profile Banner" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" />
 </p>
 
-
-
-👉 Setup guide: [Wakatime GitHub Integration](https://github.com/anuraghazra/github-readme-stats#install-wakatime)
-
 ---
 
 ## 📰 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-👉 Works with Medium, Dev.to, Hashnode (via RSS)
 
 ---
 
