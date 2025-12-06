@@ -29,12 +29,12 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryamehta0302&show_icons=true&theme=tokyonight&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats-steel-ten.vercel.app/api?username=aryamehta0302&show_icons=true&theme=tokyonight&rank_icon=github&cache_seconds=1000" height="180"/>
   <img src="https://streak-stats.demolab.com?user=aryamehta0302&theme=tokyonight&border_radius=5" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamehta0302&layout=compact&theme=tokyonight&langs_count=8" height="150"/>
+  <img src="https://github-readme-stats-steel-ten.vercel.app/api/top-langs/?username=aryamehta0302&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1000" height="150"/>
 </p>
 
 ---
@@ -48,8 +48,8 @@
 
 ## 📌 Pinned Projects
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=Weather-Predictor&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=AIML-Department-chatbot&theme=tokyonight" />
+  <img src="https://github-readme-stats-steel-ten.vercel.app/api/pin/?username=aryamehta0302&repo=Weather-Predictor&theme=tokyonight&cache_seconds=1000" />
+  <img src="https://github-readme-stats-steel-ten.vercel.app/api/pin/?username=aryamehta0302&repo=AIML-Department-chatbot&theme=tokyonight&cache_seconds=1000" />
 </p>
 
 ---
@@ -62,8 +62,6 @@
 
 ## 🎧 Now Playing (Auto-Updated Every 6 Hours)
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/oygrmJFKYZY
-🎧 **Now Playing:** https://youtu.be/oygrmJFKYZY
 > _A new random song appears here every 6 hours_
 
 ---
