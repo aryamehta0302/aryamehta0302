@@ -62,7 +62,7 @@
 
 ## 🎧 Now Playing (Auto-Updated Every 6 Hours)
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/fLexgOxsZu0
+🎧 **Now Playing:** https://youtu.be/09R8_2nJtjg
 
 ---
 
