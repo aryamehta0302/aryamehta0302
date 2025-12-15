@@ -73,7 +73,6 @@
 
 ---
 
-## 🔥 Madara Uchiha
 <p align="center">
   <img 
     src="https://cdn.pfps.gg/banners/3586-madara-uchiha.png" 
