@@ -23,7 +23,11 @@
 ---
 
 ## 📄 Resume
-📥 [View My Resume](https://raw.githubusercontent.com/aryamehta0302/aryamehta0302/main/resume.pdf)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/aryamehta0302/aryamehta0302/main/resume.pdf" download>
+    <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-PDF-ff69b4?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
@@ -41,7 +45,10 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aryamehta0302&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&margin-h=5&v=3" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=aryamehta0302&theme=tokyonight&column=6&margin-w=8&margin-h=8&cache_seconds=1000" 
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -66,6 +73,18 @@
 
 ---
 
+## 🔥 Madara Uchiha
+<p align="center">
+  <img 
+    src="https://cdn.pfps.gg/banners/3586-madara-uchiha.png" 
+    alt="Madara Uchiha Banner"
+    width="100%"
+    style="max-height: 320px; object-fit: cover; border-radius: 14px;"
+  />
+</p>
+
+---
+
 ## 📡 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamehta0302&theme=tokyo-night" />
@@ -76,12 +95,6 @@
 <p align="center">
   <img src="https://media.gifdb.com/smithing-master-hewg-back-view-elden-ring-6zuen1w6uhb4byd1.gif" alt="Profile Banner" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" />
 </p>
-
----
-
-## 📰 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
