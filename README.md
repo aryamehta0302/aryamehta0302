@@ -71,7 +71,7 @@
 
 ## 🎧 Now Playing (Auto-Updated Every 6 Hours)
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/C0DPdy98e4c
+🎧 **Now Playing:** https://youtu.be/2vjPBrBU-TM
 
 ---
 
