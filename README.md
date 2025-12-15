@@ -76,13 +76,15 @@
 ---
 
 <p align="center">
-  <img 
-    src="https://cdn.pfps.gg/banners/3586-madara-uchiha.png" 
-    alt="Madara Uchiha Banner"
+  <img
+    src="https://media.tenor.com/_6WmTnLkYzAAAAAC/mugen-tsukuyomi-madara.gif"
+    alt="Madara Uchiha Mugen Tsukuyomi"
     width="100%"
     style="max-height: 320px; object-fit: cover; border-radius: 14px;"
   />
 </p>
+
+
 
 ---
 
