@@ -43,13 +43,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=aryamehta0302&theme=tokyonight&column=6&margin-w=8&margin-h=8&cache_seconds=1000" 
-    alt="GitHub Trophies"
+    src="https://tenor.com/h6C3KcSiCIn.gif" 
+    alt="Madara Uchiha"
+    width="100%"
+    style="max-height: 320px; object-fit: cover; border-radius: 14px;"
   />
 </p>
+
 
 ---
 
