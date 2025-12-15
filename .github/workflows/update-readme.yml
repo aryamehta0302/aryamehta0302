@@ -2,11 +2,8 @@ name: 🔄 Update GitHub Profile README
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */6 * * *"   # every 6 hours
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -14,30 +11,51 @@ permissions:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # 🔥 required for rebase
 
       - name: Update Random Song
+        shell: bash
         run: |
-          songs=("https://youtu.be/dQw4w9WgXcQ"
-                 "https://youtu.be/C0DPdy98e4c"
-                 "https://youtu.be/oygrmJFKYZY"
-                 "https://youtu.be/2vjPBrBU-TM"
-                 "https://youtu.be/kXYiU_JCYtU"
-                 "https://youtu.be/fLexgOxsZu0"
-                 "https://youtu.be/09R8_2nJtjg")
-          random_song=${songs[$RANDOM % ${#songs[@]}]}
-          echo "🎧 **Now Playing:** $random_song" > random_song.txt
-          # delete old Now Playing line (the line after the marker)
-          sed -i '/<!-- RANDOM_SONG -->/{n;d;}' README.md
-          # insert new Now Playing line after the marker
-          sed -i '/<!-- RANDOM_SONG -->/r random_song.txt' README.md
+          songs=(
+            "https://youtu.be/dQw4w9WgXcQ"
+            "https://youtu.be/C0DPdy98e4c"
+            "https://youtu.be/oygrmJFKYZY"
+            "https://youtu.be/2vjPBrBU-TM"
+            "https://youtu.be/kXYiU_JCYtU"
+            "https://youtu.be/fLexgOxsZu0"
+            "https://youtu.be/09R8_2nJtjg"
+          )
 
-      - name: Commit changes
+          random_song=${songs[$RANDOM % ${#songs[@]}]}
+
+          awk '
+          {
+            print
+            if ($0 ~ /<!-- RANDOM_SONG -->/) {
+              getline
+              print "🎧 **Now Playing:** '"$random_song"'"
+            }
+          }' README.md > README.tmp
+
+          mv README.tmp README.md
+
+      - name: Commit and push safely
         run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "🎧 Auto update random music" || echo "No changes to commit"
-          git push
+
+          git add README.md
+          git commit -m "🎧 Auto update random music"
+
+          git pull --rebase origin main
+          git push origin main
