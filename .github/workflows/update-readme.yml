@@ -2,7 +2,7 @@ name: 🔄 Update GitHub Profile README
 
 on:
   schedule:
-    - cron: "*/20 * * * *"   # 🔥 every 20 minutes
+    - cron: "*/20 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,10 +13,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # required for rebase
+          fetch-depth: 0
 
       - name: Update Random Song
         shell: bash
@@ -30,21 +30,20 @@ jobs:
             "https://youtu.be/fLexgOxsZu0"
             "https://youtu.be/09R8_2nJtjg"
           )
-
           random_song=${songs[$RANDOM % ${#songs[@]}]}
 
           awk '
-          {
-            print
-            if ($0 ~ /<!-- RANDOM_SONG -->/) {
-              getline
-              print "🎧 **Now Playing:** '"$random_song"'"
-            }
-          }' README.md > README.tmp
+          /<!-- RANDOM_SONG -->/ {
+            print "<!-- RANDOM_SONG -->"
+            print "🎧 **Now Playing:** '"$random_song"'"
+            next
+          }
+          {print}
+          ' README.md > README.tmp
 
           mv README.tmp README.md
 
-      - name: Commit and push safely
+      - name: Commit & Push
         run: |
           if git diff --quiet; then
             echo "No changes to commit"
@@ -54,8 +53,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          git pull --rebase origin main
           git add README.md
           git commit -m "🎧 Auto update random music"
-
-          git pull --rebase origin main
           git push origin main
