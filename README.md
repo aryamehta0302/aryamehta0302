@@ -1,27 +1,29 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Machine+Learning+Developer;Systems+Builder+%7C+MLOps+Focused;LLM+Integration+%7C+Autonomous+Architectures" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Systems+Builder;LLM+%26+MLOps+Focused" />
 </p>
 
 <h1 align="center">Arya Mehta</h1>
 
 <p align="center">
-AI Engineer building scalable intelligent systems and production-ready ML architectures.
+Building scalable AI systems and production-grade ML architectures.
 </p>
 
 ---
 
 ## About
 
-- Focused on **AI Engineering, LLM systems, and applied machine learning**
-- Strong backend foundation with scalable API design
-- Interested in autonomous systems and real-world AI deployment
-- Currently exploring MLOps, system orchestration, and model optimization
+AI Engineer focused on:
+
+- Applied Machine Learning
+- LLM Integration & Autonomous Systems
+- Backend API Architecture
+- MLOps & Model Deployment
 
 Contact: **aryamehta0302@gmail.com**
 
 ---
 
-## Core Stack
+## Core Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,js,ts,nodejs,react,express,mongodb,mysql,git,github,docker,linux,azure,fastapi,tensorflow,pytorch&theme=dark" />
@@ -29,15 +31,15 @@ Contact: **aryamehta0302@gmail.com**
 
 ---
 
-## Engineering Domains
+## Engineering Focus
 
-| Domain | Focus |
-|--------|--------|
-| AI & ML | NLP, Transformers, Deep Learning, Model Deployment |
-| Backend Systems | Node.js, FastAPI, REST APIs |
-| MLOps | Docker, CI/CD, Azure, Linux |
+| Domain | Expertise |
+|--------|------------|
+| AI & ML | NLP, Transformers, CNNs, Model Deployment |
+| Backend Systems | FastAPI, Node.js, REST APIs |
+| MLOps | Docker, Azure, CI/CD |
 | Databases | MySQL, MongoDB |
-| Frontend | React, Tailwind |
+| Frontend | React |
 
 ---
 
@@ -54,8 +56,8 @@ Contact: **aryamehta0302@gmail.com**
 ## Featured Projects
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=Weather-Predictor&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=AIML-Department-chatbot&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=Weather-Predictor&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=AIML-Department-chatbot&theme=tokyonight" />
 </p>
 
 ---
@@ -80,7 +82,7 @@ Contact: **aryamehta0302@gmail.com**
 ## Live Activity Panel
 
 <p align="center">
-<img src="assests/github-activity.svg" />
+  <img src="assests/github-activity.svg" />
 </p>
 
 ---
@@ -95,7 +97,7 @@ Contact: **aryamehta0302@gmail.com**
 ## Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamehta0302&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamehta0302&theme=tokyo-night" />
 </p>
 
 ---
@@ -103,22 +105,11 @@ Contact: **aryamehta0302@gmail.com**
 ## Contribution Snake
 
 <p align="center">
-<img src="https://github.com/aryamehta0302/aryamehta0302/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/aryamehta0302/aryamehta0302/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## Current Direction
-
-Building:
-
-- Autonomous AI systems
-- LLM-powered tools
-- Production-grade ML pipelines
-- Scalable backend infrastructures for intelligent applications
-
----
-
 <p align="center">
-Focused on shipping real systems, not demos.
+Focused on shipping real AI systems.
 </p>
