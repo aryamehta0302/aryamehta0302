@@ -2,7 +2,7 @@ name: 🔄 Update GitHub Profile README
 
 on:
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "0 */6 * * *"   # Every 6 hours (cleaner, no spam)
   workflow_dispatch:
 
 permissions:
@@ -13,13 +13,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: 📥 Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Update Random Song
-        shell: bash
+      - name: 🛠 Install Dependencies
+        run: sudo apt-get install -y jq
+
+      - name: 🎧 Update Random Song
         run: |
           songs=(
             "https://youtu.be/dQw4w9WgXcQ"
@@ -30,6 +32,7 @@ jobs:
             "https://youtu.be/fLexgOxsZu0"
             "https://youtu.be/09R8_2nJtjg"
           )
+
           random_song=${songs[$RANDOM % ${#songs[@]}]}
 
           awk '
@@ -43,7 +46,42 @@ jobs:
 
           mv README.tmp README.md
 
-      - name: Commit & Push
+      - name: 📊 Fetch Latest GitHub Activity
+        run: |
+          USER="aryamehta0302"
+
+          EVENT=$(curl -s https://api.github.com/users/$USER/events | jq -r '.[0].type')
+          REPO=$(curl -s https://api.github.com/users/$USER/events | jq -r '.[0].repo.name')
+
+          echo "EVENT=$EVENT" >> $GITHUB_ENV
+          echo "REPO=$REPO" >> $GITHUB_ENV
+
+      - name: 🖌 Generate Dynamic SVG
+        run: |
+          cat > assests/github-activity.svg <<EOF
+          <?xml version="1.0" encoding="UTF-8"?>
+          <svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+              <rect width="100%" height="100%" fill="black"/>
+
+              <text x="50%" y="30" fill="#00FFFF" font-size="22px" font-family="monospace" text-anchor="middle">
+                  🚀 Arya Mehta's GitHub Activity 🚀
+              </text>
+
+              <text x="50%" y="80" fill="#FF007F" font-size="18px" font-family="monospace" text-anchor="middle">
+                  ➡ Latest Event: ${EVENT}
+              </text>
+
+              <text x="50%" y="110" fill="#00FFD1" font-size="18px" font-family="monospace" text-anchor="middle">
+                  ➡ Repository: ${REPO}
+              </text>
+
+              <text x="50%" y="150" fill="#FFFFFF" font-size="14px" font-family="monospace" text-anchor="middle">
+                  Auto-updated every 6 hours
+              </text>
+          </svg>
+          EOF
+
+      - name: 🚀 Commit & Push Changes
         run: |
           if git diff --quiet; then
             echo "No changes to commit"
@@ -54,6 +92,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git pull --rebase origin main
-          git add README.md
-          git commit -m "🎧 Auto update random music"
+          git add README.md assests/github-activity.svg
+          git commit -m "⚡ Auto-update profile activity & music"
           git push origin main
