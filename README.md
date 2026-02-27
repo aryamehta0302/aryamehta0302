@@ -2,10 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Developer;Systems+Builder;LLM+%26+MLOps+Focused" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="85%" />
+</p>
+
 <h1 align="center">Arya Mehta</h1>
 
 <p align="center">
-Building scalable AI systems and production-grade ML architectures.
+Building scalable AI systems and production-grade machine learning architectures.
 </p>
 
 ---
@@ -17,9 +21,9 @@ AI Engineer focused on:
 - Applied Machine Learning
 - LLM Integration & Autonomous Systems
 - Backend API Architecture
-- MLOps & Model Deployment
+- MLOps & Deployment Pipelines
 
-Contact: **aryamehta0302@gmail.com**
+📧 **aryamehta0302@gmail.com**
 
 ---
 
@@ -31,11 +35,11 @@ Contact: **aryamehta0302@gmail.com**
 
 ---
 
-## Engineering Focus
+## Engineering Domains
 
 | Domain | Expertise |
 |--------|------------|
-| AI & ML | NLP, Transformers, CNNs, Model Deployment |
+| AI & ML | NLP, Transformers, Deep Learning, Model Deployment |
 | Backend Systems | FastAPI, Node.js, REST APIs |
 | MLOps | Docker, Azure, CI/CD |
 | Databases | MySQL, MongoDB |
@@ -56,8 +60,13 @@ Contact: **aryamehta0302@gmail.com**
 ## Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=Weather-Predictor&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=AIML-Department-chatbot&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=AI-OPS&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=Chronos&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=Stock-Price-Predictor&theme=tokyonight" />
 </p>
 
 ---
@@ -111,5 +120,5 @@ Contact: **aryamehta0302@gmail.com**
 ---
 
 <p align="center">
-Focused on shipping real AI systems.
+Focused on building intelligent systems that ship to production.
 </p>
