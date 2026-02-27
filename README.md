@@ -60,12 +60,13 @@ AI Engineer focused on:
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/aryamehta0302/AIML-Department-chatbot">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aryamehta0302&repo=AIML-Department-chatbot&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/aryamehta0302/AI-OPS">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aryamehta0302&repo=AI-OPS&theme=tokyonight" />
-  </a>
+<a href="https://github.com/aryamehta0302/AIML-Department-chatbot">
+  <img src="https://img.shields.io/badge/AIML%20Department%20Chatbot-AI%20Chatbot-0A66C2?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/aryamehta0302/AI-OPS">
+  <img src="https://img.shields.io/badge/AI--OPS-AI%20Operations-0A66C2?style=for-the-badge&logo=github" />
+</a>
 </p>
 ---
 
