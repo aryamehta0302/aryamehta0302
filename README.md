@@ -60,15 +60,13 @@ AI Engineer focused on:
 ## Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=AIML-Department-chatbot&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=AI-OPS&theme=tokyonight" />
+  <a href="https://github.com/aryamehta0302/AIML-Department-chatbot">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aryamehta0302&repo=AIML-Department-chatbot&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/aryamehta0302/AI-OPS">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=aryamehta0302&repo=AI-OPS&theme=tokyonight" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=Chronos&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=Stock-Price-Predictor&theme=tokyonight" />
-</p>
-
 ---
 
 ## GitHub Analytics
