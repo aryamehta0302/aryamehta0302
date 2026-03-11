@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="220" rx="18" fill="url(#bg)"/>
+  <text x="32" y="44" fill="#e2e8f0" font-size="24" font-family="Consolas, monospace" font-weight="700">Latest Public Activity</text>
+  <text x="32" y="68" fill="#94a3b8" font-size="13" font-family="Consolas, monospace">Live from GitHub Events API</text>
+
+  <text x="34" y="104" fill="#22d3ee" font-size="15" font-family="Consolas, monospace">1) PushEvent • aryamehta0302/aryamehta0302</text>
+  <text x="34" y="132" fill="#a78bfa" font-size="15" font-family="Consolas, monospace">2) PushEvent • aryamehta0302/aryamehta0302</text>
+  <text x="34" y="160" fill="#34d399" font-size="15" font-family="Consolas, monospace">3) PushEvent • aryamehta0302/aryamehta0302</text>
+  <text x="34" y="188" fill="#f472b6" font-size="15" font-family="Consolas, monospace">4) PushEvent • aryamehta0302/aryamehta0302</text>
+</svg>
