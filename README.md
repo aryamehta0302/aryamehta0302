@@ -24,31 +24,35 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- TERMINAL ABOUT -->
-## 🧑‍💻 About Me
+<!-- ABOUT ME -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```zsh
-arya@dev:~$ cat about.yaml
-```
+<table align="center">
+<tr><td>
 
-```yaml
-name: Arya Mehta
-role: AI Engineer & ML Systems Builder
-location: India
-education: B.Tech in AI & Machine Learning
+🎓 **B.Tech** in AI & Machine Learning
 
-currently_building: Production-grade LLM integration systems
-learning: Advanced MLOps, Model Optimization, AI Agent Design
+🏢 Building **Production-grade LLM integration systems**
 
-interests:
-  - Autonomous AI Agents & Multi-Agent Systems
-  - Model Serving & Inference Optimization
-  - Data-Driven API Architecture (FastAPI)
-  - MLOps & CI/CD for ML Pipelines
+🌍 Based in **India** 🇮🇳
 
-open_to: AI/ML open-source collaborations
-fun_fact: "I debug models like detectives solve cases — patience and too much coffee"
-```
+📚 Currently leveling up in **Advanced MLOps, Model Optimization & AI Agent Design**
+
+🤝 Open to **AI/ML open-source collaborations**
+
+⚡ Fun fact: *"I debug models like detectives solve cases — patience and too much coffee"* ☕
+
+</td><td width="320">
+
+**🔭 What I'm Into:**
+
+- 🤖 Autonomous AI Agents & Multi-Agent Systems
+- 🚀 Model Serving & Inference Optimization  
+- 🔌 Data-Driven API Architecture (FastAPI)
+- ⚙️ MLOps & CI/CD for ML Pipelines
+
+</td></tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -186,7 +190,7 @@ fun_fact: "I debug models like detectives solve cases — patience and too much 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-git-master-aryamehta0302s-projects.vercel.app/?username=aryamehta0302&theme=tokyonight" width="95%" />
+  <img src="https://github-profile-trophy-f0kxt1jq1-aryamehta0302s-projects.vercel.app/?username=aryamehta0302&theme=tokyonight" width="95%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
