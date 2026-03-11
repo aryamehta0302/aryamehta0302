@@ -190,7 +190,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-f0kxt1jq1-aryamehta0302s-projects.vercel.app/?username=aryamehta0302&theme=tokyonight" width="95%" />
+  <img src="https://github-profile-trophy-rho-sage.vercel.app/?username=aryamehta0302&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true" width="95%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -231,17 +231,6 @@
 <!-- DAILY_QUOTE_START -->
 > _Ship fast, but ship with tests. Move fast, but leave docs behind._
 <!-- DAILY_QUOTE_END -->
-
----
-
-## 🧪 Weekly Build Summary
-
-<!-- WEEKLY_SUMMARY_START -->
-- ✅ Push events (7d): 0
-- 🔀 Pull request events (7d): 0
-- 🐞 Issue events (7d): 0
-- 🧭 Repositories touched (7d): 0
-<!-- WEEKLY_SUMMARY_END -->
 
 ---
 
