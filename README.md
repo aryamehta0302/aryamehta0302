@@ -186,7 +186,7 @@ fun_fact: "I debug models like detectives solve cases — patience and too much 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryamehta0302&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" />
+  <img src="https://github-profile-trophy-git-master-aryamehta0302s-projects.vercel.app/?username=aryamehta0302&theme=tokyonight" width="95%" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
