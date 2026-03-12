@@ -78,8 +78,8 @@
 <!-- DYNAMIC_METRICS_START -->
 - 🚀 **Public repositories:** 29
 - ⭐ **Total stars earned:** 2
-- 👥 **Followers:** 6  |  **Following:** 12
-- 🕒 **Last refresh:** 12 Mar 2026, 01:14 UTC
+- 👥 **Followers:** 7  |  **Following:** 12
+- 🕒 **Last refresh:** 12 Mar 2026, 12:39 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -219,9 +219,9 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
+- 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
 - 🔭 [Resume-builder](https://github.com/aryamehta0302/Resume-builder) — latest repo activity
 - 🔭 [AI-OPS](https://github.com/aryamehta0302/AI-OPS) — latest repo activity
-- 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
 ---
