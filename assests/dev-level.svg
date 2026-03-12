@@ -14,15 +14,15 @@
   <rect x="0" y="0" width="900" height="170" rx="18" fill="url(#lvlbg)"/>
 
   <text x="34" y="42" fill="#e5e7eb" font-size="22" font-family="Segoe UI, Arial" font-weight="700">🎮  Developer Level 3  —  Developer</text>
-  <text x="34" y="66" fill="#94a3b8" font-size="13" font-family="Segoe UI, Arial">XP: 140 / 300  •  46% to Level 4</text>
+  <text x="34" y="66" fill="#94a3b8" font-size="13" font-family="Segoe UI, Arial">XP: 210 / 300  •  70% to Level 4</text>
 
   <rect x="34" y="84" width="832" height="24" rx="12" fill="#1e293b"/>
-  <rect x="34" y="84" width="382" height="24" rx="12" fill="url(#xpbar)"/>
+  <rect x="34" y="84" width="582" height="24" rx="12" fill="url(#xpbar)"/>
 
-  <text x="450" y="101" fill="#ffffff" font-size="12" font-family="Segoe UI, Arial" font-weight="700" text-anchor="middle">46%</text>
+  <text x="450" y="101" fill="#ffffff" font-size="12" font-family="Segoe UI, Arial" font-weight="700" text-anchor="middle">70%</text>
 
-  <text x="34" y="140" fill="#22d3ee" font-size="12" font-family="Segoe UI, Arial">📦 27 repos × 10 xp</text>
-  <text x="250" y="140" fill="#a78bfa" font-size="12" font-family="Segoe UI, Arial">⭐ 1 stars × 50 xp</text>
+  <text x="34" y="140" fill="#22d3ee" font-size="12" font-family="Segoe UI, Arial">📦 29 repos × 10 xp</text>
+  <text x="250" y="140" fill="#a78bfa" font-size="12" font-family="Segoe UI, Arial">⭐ 2 stars × 50 xp</text>
   <text x="460" y="140" fill="#22c55e" font-size="12" font-family="Segoe UI, Arial">👥 6 followers × 20 xp</text>
-  <text x="700" y="140" fill="#f59e0b" font-size="12" font-family="Segoe UI, Arial">🔥 Total: 440 xp</text>
+  <text x="700" y="140" fill="#f59e0b" font-size="12" font-family="Segoe UI, Arial">🔥 Total: 510 xp</text>
 </svg>

@@ -76,10 +76,10 @@
 <br>
 
 <!-- DYNAMIC_METRICS_START -->
-- 🚀 **Public repositories:** 27
-- ⭐ **Total stars earned:** 1
-- 👥 **Followers:** 6  |  **Following:** 3
-- 🕒 **Last refresh:** 11 Mar 2026, 18:47 UTC
+- 🚀 **Public repositories:** 29
+- ⭐ **Total stars earned:** 2
+- 👥 **Followers:** 6  |  **Following:** 12
+- 🕒 **Last refresh:** 12 Mar 2026, 01:14 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[AI-OPS](https://github.com/aryamehta0302/AI-OPS)**
-- **Stack:** Python  |  **Stars:** 0
+- **[DOTNET](https://github.com/aryamehta0302/DOTNET)**
+- **Stack:** C#  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -208,10 +208,10 @@
 ## 🧪 Weekly Build Summary
 
 <!-- WEEKLY_SUMMARY_START -->
-- ✅ Push events (7d): **2**
+- ✅ Push events (7d): **5**
 - 🔀 Pull request events (7d): **0**
 - 🐞 Issue events (7d): **0**
-- 🧭 Repositories touched (7d): **1**
+- 🧭 Repositories touched (7d): **4**
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
@@ -219,9 +219,9 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
+- 🔭 [Resume-builder](https://github.com/aryamehta0302/Resume-builder) — latest repo activity
+- 🔭 [AI-OPS](https://github.com/aryamehta0302/AI-OPS) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
-- 🔭 [movie](https://github.com/aryamehta0302/movie) — latest repo activity
-- 🔭 [CARD](https://github.com/aryamehta0302/CARD) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
 ---
@@ -229,7 +229,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _Ship fast, but ship with tests. Move fast, but leave docs behind._
+> _Good APIs are built by engineers who use their own APIs._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -237,7 +237,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/dQw4w9WgXcQ
+🎧 **Now Playing:** https://youtu.be/C0DPdy98e4c
 
 ---
 
