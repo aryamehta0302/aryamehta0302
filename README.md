@@ -76,10 +76,10 @@
 <br>
 
 <!-- DYNAMIC_METRICS_START -->
-- 🚀 **Public repositories:** 29
+- 🚀 **Public repositories:** 30
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 7  |  **Following:** 12
-- 🕒 **Last refresh:** 16 Mar 2026, 01:28 UTC
+- 🕒 **Last refresh:** 16 Mar 2026, 12:52 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[Resume-builder](https://github.com/aryamehta0302/Resume-builder)**
-- **Stack:** TypeScript  |  **Stars:** 0
+- **[DOTNET](https://github.com/aryamehta0302/DOTNET)**
+- **Stack:** C#  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -211,7 +211,7 @@
 - ✅ Push events (7d): **5**
 - 🔀 Pull request events (7d): **0**
 - 🐞 Issue events (7d): **0**
-- 🧭 Repositories touched (7d): **4**
+- 🧭 Repositories touched (7d): **5**
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
@@ -219,9 +219,9 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
+- 🔭 [GramSathi-AI](https://github.com/aryamehta0302/GramSathi-AI) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
 - 🔭 [Resume-builder](https://github.com/aryamehta0302/Resume-builder) — latest repo activity
-- 🔭 [AI-OPS](https://github.com/aryamehta0302/AI-OPS) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
 ---
