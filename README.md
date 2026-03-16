@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 29
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 7  |  **Following:** 12
-- 🕒 **Last refresh:** 15 Mar 2026, 12:34 UTC
+- 🕒 **Last refresh:** 16 Mar 2026, 01:28 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[AIML-Department-chatbot](https://github.com/aryamehta0302/AIML-Department-chatbot)**
-- **Stack:** HTML  |  **Stars:** 0
+- **[Resume-builder](https://github.com/aryamehta0302/Resume-builder)**
+- **Stack:** TypeScript  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -229,7 +229,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _Great ML systems are not just accurate — they are observable, reproducible, and maintainable._
+> _Speed in AI comes from clear abstractions, not chaos._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -237,7 +237,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/oygrmJFKYZY
+🎧 **Now Playing:** https://youtu.be/C0DPdy98e4c
 
 ---
 
