@@ -20,9 +20,9 @@
   <text x="34" y="64" fill="#e2e8f0" font-size="20" font-family="Consolas, monospace" font-weight="700">$  Latest Public Activity</text>
   <text x="34" y="86" fill="#64748b" font-size="12" font-family="Consolas, monospace">Live from GitHub Events API  •  auto-refreshed</text>
 
-  <text x="34" y="120" fill="#22d3ee" font-size="14" font-family="Consolas, monospace">  1)  CreateEvent → aryamehta0302/GramSathi-AI</text>
-  <text x="34" y="148" fill="#a78bfa" font-size="14" font-family="Consolas, monospace">  2)  CreateEvent → aryamehta0302/Resume-builder</text>
-  <text x="34" y="176" fill="#34d399" font-size="14" font-family="Consolas, monospace">  3)  WatchEvent → aryamehta0302/AI-OPS</text>
-  <text x="34" y="204" fill="#f472b6" font-size="14" font-family="Consolas, monospace">  4)  PushEvent → aryamehta0302/aryamehta0302</text>
-  <text x="34" y="232" fill="#f59e0b" font-size="14" font-family="Consolas, monospace">  5)  PushEvent → aryamehta0302/aryamehta0302</text>
+  <text x="34" y="120" fill="#22d3ee" font-size="14" font-family="Consolas, monospace">  1)  PushEvent → aryamehta0302/GramSathi-AI</text>
+  <text x="34" y="148" fill="#a78bfa" font-size="14" font-family="Consolas, monospace">  2)  PushEvent → aryamehta0302/GramSathi-AI</text>
+  <text x="34" y="176" fill="#34d399" font-size="14" font-family="Consolas, monospace">  3)  CreateEvent → aryamehta0302/GramSathi-AI</text>
+  <text x="34" y="204" fill="#f472b6" font-size="14" font-family="Consolas, monospace">  4)  CreateEvent → aryamehta0302/Resume-builder</text>
+  <text x="34" y="232" fill="#f59e0b" font-size="14" font-family="Consolas, monospace">  5)  WatchEvent → aryamehta0302/AI-OPS</text>
 </svg>
