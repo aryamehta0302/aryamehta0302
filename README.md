@@ -78,8 +78,8 @@
 <!-- DYNAMIC_METRICS_START -->
 - 🚀 **Public repositories:** 30
 - ⭐ **Total stars earned:** 2
-- 👥 **Followers:** 7  |  **Following:** 12
-- 🕒 **Last refresh:** 17 Mar 2026, 01:20 UTC
+- 👥 **Followers:** 8  |  **Following:** 12
+- 🕒 **Last refresh:** 17 Mar 2026, 12:51 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -219,8 +219,8 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
-- 🔭 [GramSathi-AI](https://github.com/aryamehta0302/GramSathi-AI) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
+- 🔭 [GramSathi-AI](https://github.com/aryamehta0302/GramSathi-AI) — latest repo activity
 - 🔭 [Resume-builder](https://github.com/aryamehta0302/Resume-builder) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
