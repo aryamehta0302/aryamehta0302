@@ -23,12 +23,12 @@
   <text x="240" y="120" fill="#a78bfa" font-size="28" font-family="Segoe UI, Arial" font-weight="800">2</text>
   <text x="240" y="142" fill="#94a3b8" font-size="12" font-family="Segoe UI, Arial">Total Stars</text>
 
-  <text x="400" y="120" fill="#22c55e" font-size="28" font-family="Segoe UI, Arial" font-weight="800">8</text>
+  <text x="400" y="120" fill="#22c55e" font-size="28" font-family="Segoe UI, Arial" font-weight="800">9</text>
   <text x="400" y="142" fill="#94a3b8" font-size="12" font-family="Segoe UI, Arial">Followers</text>
 
   <text x="540" y="120" fill="#f59e0b" font-size="28" font-family="Segoe UI, Arial" font-weight="800">12</text>
   <text x="540" y="142" fill="#94a3b8" font-size="12" font-family="Segoe UI, Arial">Following</text>
 
-  <text x="700" y="120" fill="#f472b6" font-size="16" font-family="Segoe UI, Arial" font-weight="700">17 Mar 2026</text>
+  <text x="700" y="120" fill="#f472b6" font-size="16" font-family="Segoe UI, Arial" font-weight="700">18 Mar 2026</text>
   <text x="700" y="142" fill="#94a3b8" font-size="12" font-family="Segoe UI, Arial">Last Refresh (UTC)</text>
 </svg>
