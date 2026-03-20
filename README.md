@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 31
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 9  |  **Following:** 13
-- 🕒 **Last refresh:** 19 Mar 2026, 12:42 UTC
+- 🕒 **Last refresh:** 20 Mar 2026, 01:19 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[Portfolio](https://github.com/aryamehta0302/Portfolio)**
-- **Stack:** JavaScript  |  **Stars:** 0
+- **[AIML-Department-chatbot](https://github.com/aryamehta0302/AIML-Department-chatbot)**
+- **Stack:** HTML  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -229,7 +229,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _The best developer branding is shipping useful things consistently._
+> _Reliable AI beats flashy demos every single time._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -237,7 +237,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/oygrmJFKYZY
+🎧 **Now Playing:** https://youtu.be/2vjPBrBU-TM
 
 ---
 
