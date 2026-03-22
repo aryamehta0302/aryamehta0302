@@ -78,8 +78,8 @@
 <!-- DYNAMIC_METRICS_START -->
 - 🚀 **Public repositories:** 31
 - ⭐ **Total stars earned:** 2
-- 👥 **Followers:** 9  |  **Following:** 13
-- 🕒 **Last refresh:** 21 Mar 2026, 12:30 UTC
+- 👥 **Followers:** 10  |  **Following:** 13
+- 🕒 **Last refresh:** 22 Mar 2026, 01:23 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[Particle-Testing](https://github.com/aryamehta0302/Particle-Testing)**
-- **Stack:** TypeScript  |  **Stars:** 0
+- **[CARD](https://github.com/aryamehta0302/CARD)**
+- **Stack:** JavaScript  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -229,7 +229,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _Measure what matters: latency, quality, and user trust._
+> _The gap between prototype and production is where real engineering lives._
 <!-- DAILY_QUOTE_END -->
 
 ---
