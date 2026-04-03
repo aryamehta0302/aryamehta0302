@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 31
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 10  |  **Following:** 13
-- 🕒 **Last refresh:** 03 Apr 2026, 01:27 UTC
+- 🕒 **Last refresh:** 03 Apr 2026, 12:43 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -219,8 +219,8 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
-- 🔭 [AI-OPS](https://github.com/aryamehta0302/AI-OPS) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
+- 🔭 [AI-OPS](https://github.com/aryamehta0302/AI-OPS) — latest repo activity
 - 🔭 [GramSathi-AI](https://github.com/aryamehta0302/GramSathi-AI) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
