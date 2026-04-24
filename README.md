@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 31
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 11  |  **Following:** 16
-- 🕒 **Last refresh:** 24 Apr 2026, 01:53 UTC
+- 🕒 **Last refresh:** 24 Apr 2026, 13:03 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -219,8 +219,8 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
-- 🔭 [Portfolio1](https://github.com/aryamehta0302/Portfolio1) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
+- 🔭 [Portfolio1](https://github.com/aryamehta0302/Portfolio1) — latest repo activity
 - 🔭 [AI-OPS](https://github.com/aryamehta0302/AI-OPS) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
