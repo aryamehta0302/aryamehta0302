@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 32
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 12  |  **Following:** 16
-- 🕒 **Last refresh:** 08 May 2026, 13:11 UTC
+- 🕒 **Last refresh:** 09 May 2026, 02:05 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[Particle-Testing](https://github.com/aryamehta0302/Particle-Testing)**
-- **Stack:** TypeScript  |  **Stars:** 0
+- **[AIML-Department-chatbot](https://github.com/aryamehta0302/AIML-Department-chatbot)**
+- **Stack:** HTML  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -229,7 +229,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _The best architectures emerge from simplicity, not complexity._
+> _Debug with data, not assumptions. Optimize with metrics, not intuition._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -237,7 +237,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/dQw4w9WgXcQ
+🎧 **Now Playing:** https://youtu.be/fLexgOxsZu0
 
 ---
 
