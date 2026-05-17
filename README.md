@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 32
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 12  |  **Following:** 16
-- 🕒 **Last refresh:** 16 May 2026, 13:01 UTC
+- 🕒 **Last refresh:** 17 May 2026, 02:13 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,7 +148,7 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[RAG-ScaleX](https://github.com/aryamehta0302/RAG-ScaleX)**
+- **[Neaural-Network-Visualizer](https://github.com/aryamehta0302/Neaural-Network-Visualizer)**
 - **Stack:** Python  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
@@ -229,7 +229,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _Measure what matters: latency, quality, and user trust._
+> _The gap between prototype and production is where real engineering lives._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -237,7 +237,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/2vjPBrBU-TM
+🎧 **Now Playing:** https://youtu.be/C0DPdy98e4c
 
 ---
 
