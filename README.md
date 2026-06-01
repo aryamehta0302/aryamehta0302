@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 32
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 12  |  **Following:** 16
-- 🕒 **Last refresh:** 31 May 2026, 13:18 UTC
+- 🕒 **Last refresh:** 01 Jun 2026, 02:49 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[aiml036](https://github.com/aryamehta0302/aiml036)**
-- **Stack:** Mixed  |  **Stars:** 0
+- **[AIML-Department-chatbot](https://github.com/aryamehta0302/AIML-Department-chatbot)**
+- **Stack:** HTML  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -229,7 +229,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _The gap between prototype and production is where real engineering lives._
+> _Write code that your future self will thank you for._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -237,7 +237,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/dQw4w9WgXcQ
+🎧 **Now Playing:** https://youtu.be/C0DPdy98e4c
 
 ---
 
