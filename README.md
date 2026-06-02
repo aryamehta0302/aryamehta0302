@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 33
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 12  |  **Following:** 16
-- 🕒 **Last refresh:** 02 Jun 2026, 02:46 UTC
+- 🕒 **Last refresh:** 02 Jun 2026, 16:04 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -219,8 +219,8 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
-- 🔭 [CodeAlpha_Language-Translation-Tool](https://github.com/aryamehta0302/CodeAlpha_Language-Translation-Tool) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
+- 🔭 [CodeAlpha_Language-Translation-Tool](https://github.com/aryamehta0302/CodeAlpha_Language-Translation-Tool) — latest repo activity
 - 🔭 [Portfolio1](https://github.com/aryamehta0302/Portfolio1) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
