@@ -36,7 +36,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PROFILE_USERNAME: aryamehta0302
-          BLOG_FEEDS: https://medium.com/feed/@aryamehta0302
         run: python scripts/update_profile.py
 
       - name: 🚀 Commit updates
@@ -48,6 +47,6 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assests/*.svg random_song.txt
-          git commit -m "chore(profile): refresh dynamic README blocks"
+          git add README.md
+          git commit -m "chore(profile): refresh dynamic README metrics"
           git push
