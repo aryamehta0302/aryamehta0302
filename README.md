@@ -139,10 +139,10 @@
 
 <p align="center">
   <a href="https://github.com/aryamehta0302/AIML-Department-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=AIML-Department-chatbot&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aryamehta0302&repo=AIML-Department-chatbot&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/aryamehta0302/AI-OPS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryamehta0302&repo=AI-OPS&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=aryamehta0302&repo=AI-OPS&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
