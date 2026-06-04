@@ -159,8 +159,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aryamehta0302&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamehta0302&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryamehta0302&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryamehta0302&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 </div>
 
 <br/>
