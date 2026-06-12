@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 35
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 12  |  **Following:** 16
-- 🕒 **Last refresh:** 12 Jun 2026, 02:43 UTC
+- 🕒 **Last refresh:** 12 Jun 2026, 14:38 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -221,8 +221,8 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
-- 🔭 [DEZAI](https://github.com/aryamehta0302/DEZAI) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
+- 🔭 [DEZAI](https://github.com/aryamehta0302/DEZAI) — latest repo activity
 - 🔭 [CodeAlpha_Chatbot-for-FAQs](https://github.com/aryamehta0302/CodeAlpha_Chatbot-for-FAQs) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
