@@ -76,10 +76,10 @@
 <br>
 
 <!-- DYNAMIC_METRICS_START -->
-- 🚀 **Public repositories:** 34
+- 🚀 **Public repositories:** 35
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 12  |  **Following:** 16
-- 🕒 **Last refresh:** 11 Jun 2026, 15:37 UTC
+- 🕒 **Last refresh:** 12 Jun 2026, 02:43 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[RAG-ScaleX](https://github.com/aryamehta0302/RAG-ScaleX)**
-- **Stack:** Python  |  **Stars:** 0
+- **[BLOGSPOT](https://github.com/aryamehta0302/BLOGSPOT)**
+- **Stack:** JavaScript  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -221,9 +221,9 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
+- 🔭 [DEZAI](https://github.com/aryamehta0302/DEZAI) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
 - 🔭 [CodeAlpha_Chatbot-for-FAQs](https://github.com/aryamehta0302/CodeAlpha_Chatbot-for-FAQs) — latest repo activity
-- 🔭 [CodeAlpha_Language-Translation-Tool](https://github.com/aryamehta0302/CodeAlpha_Language-Translation-Tool) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
 ---
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _The best developer branding is shipping useful things consistently._
+> _Reliable AI beats flashy demos every single time._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/09R8_2nJtjg
+🎧 **Now Playing:** https://youtu.be/dQw4w9WgXcQ
 
 ---
 
