@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 35
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 12  |  **Following:** 16
-- 🕒 **Last refresh:** 13 Jun 2026, 13:28 UTC
+- 🕒 **Last refresh:** 14 Jun 2026, 02:48 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[Resume-builder](https://github.com/aryamehta0302/Resume-builder)**
-- **Stack:** TypeScript  |  **Stars:** 0
+- **[RAG-ScaleX](https://github.com/aryamehta0302/RAG-ScaleX)**
+- **Stack:** Python  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _Measure what matters: latency, quality, and user trust._
+> _The gap between prototype and production is where real engineering lives._
 <!-- DAILY_QUOTE_END -->
 
 ---
