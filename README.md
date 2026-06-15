@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 35
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 12  |  **Following:** 16
-- 🕒 **Last refresh:** 14 Jun 2026, 13:42 UTC
+- 🕒 **Last refresh:** 15 Jun 2026, 02:52 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[RAG-ScaleX](https://github.com/aryamehta0302/RAG-ScaleX)**
-- **Stack:** Python  |  **Stars:** 0
+- **[MERN-STACK-WORK](https://github.com/aryamehta0302/MERN-STACK-WORK)**
+- **Stack:** Mixed  |  **Stars:** 1
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _The gap between prototype and production is where real engineering lives._
+> _Write code that your future self will thank you for._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/09R8_2nJtjg
+🎧 **Now Playing:** https://youtu.be/2vjPBrBU-TM
 
 ---
 
