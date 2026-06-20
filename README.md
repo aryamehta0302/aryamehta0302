@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 36
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 13  |  **Following:** 16
-- 🕒 **Last refresh:** 19 Jun 2026, 14:45 UTC
+- 🕒 **Last refresh:** 20 Jun 2026, 02:35 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,9 +148,9 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[RAG-ScaleX](https://github.com/aryamehta0302/RAG-ScaleX)**
-- **Stack:** Python  |  **Stars:** 0
-- **Summary:** No description available.
+- **[Machine-learning](https://github.com/aryamehta0302/Machine-learning)**
+- **Stack:** Jupyter Notebook  |  **Stars:** 0
+- **Summary:** Codes to ellaborate data manipulation in python on big data sets
 <!-- RANDOM_PROJECT_END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -221,8 +221,8 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
-- 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
+- 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
 - 🔭 [DEZAI](https://github.com/aryamehta0302/DEZAI) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _The best architectures emerge from simplicity, not complexity._
+> _Debug with data, not assumptions. Optimize with metrics, not intuition._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/kXYiU_JCYtU
+🎧 **Now Playing:** https://youtu.be/fLexgOxsZu0
 
 ---
 
