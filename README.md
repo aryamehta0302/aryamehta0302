@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 36
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 13  |  **Following:** 16
-- 🕒 **Last refresh:** 28 Jun 2026, 13:19 UTC
+- 🕒 **Last refresh:** 29 Jun 2026, 02:40 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[Weather-Predictor](https://github.com/aryamehta0302/Weather-Predictor)**
-- **Stack:** Python  |  **Stars:** 0
+- **[Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype)**
+- **Stack:** TypeScript  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _The gap between prototype and production is where real engineering lives._
+> _Write code that your future self will thank you for._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/2vjPBrBU-TM
+🎧 **Now Playing:** https://youtu.be/oygrmJFKYZY
 
 ---
 
