@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 37
 - ⭐ **Total stars earned:** 2
 - 👥 **Followers:** 13  |  **Following:** 16
-- 🕒 **Last refresh:** 03 Jul 2026, 02:05 UTC
+- 🕒 **Last refresh:** 03 Jul 2026, 13:45 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -221,8 +221,8 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
-- 🔭 [Aether-Studio](https://github.com/aryamehta0302/Aether-Studio) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
+- 🔭 [Aether-Studio](https://github.com/aryamehta0302/Aether-Studio) — latest repo activity
 - 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
