@@ -22,7 +22,7 @@
 
   <text x="34" y="120" fill="#22d3ee" font-size="14" font-family="Consolas, monospace">  1)  PushEvent → aryamehta0302/Dezai-Prototype</text>
   <text x="34" y="148" fill="#a78bfa" font-size="14" font-family="Consolas, monospace">  2)  PushEvent → aryamehta0302/Dezai-Prototype</text>
-  <text x="34" y="176" fill="#34d399" font-size="14" font-family="Consolas, monospace">  3)  PushEvent → aryamehta0302/Dezai-Prototype</text>
-  <text x="34" y="204" fill="#f472b6" font-size="14" font-family="Consolas, monospace">  4)  PushEvent → aryamehta0302/Aether-Studio</text>
-  <text x="34" y="232" fill="#f59e0b" font-size="14" font-family="Consolas, monospace">  5)  PushEvent → aryamehta0302/Aether-Studio</text>
+  <text x="34" y="176" fill="#34d399" font-size="14" font-family="Consolas, monospace">  3)  PullRequestEvent → aryamehta0302/Dezai-Prototype</text>
+  <text x="34" y="204" fill="#f472b6" font-size="14" font-family="Consolas, monospace">  4)  PushEvent → aryamehta0302/Dezai-Prototype</text>
+  <text x="34" y="232" fill="#f59e0b" font-size="14" font-family="Consolas, monospace">  5)  PullRequestEvent → aryamehta0302/Dezai-Prototype</text>
 </svg>
