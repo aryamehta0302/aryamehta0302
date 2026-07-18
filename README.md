@@ -76,10 +76,10 @@
 <br>
 
 <!-- DYNAMIC_METRICS_START -->
-- 🚀 **Public repositories:** 37
+- 🚀 **Public repositories:** 36
 - ⭐ **Total stars earned:** 2
-- 👥 **Followers:** 13  |  **Following:** 16
-- 🕒 **Last refresh:** 17 Jul 2026, 13:07 UTC
+- 👥 **Followers:** 13  |  **Following:** 19
+- 🕒 **Last refresh:** 18 Jul 2026, 01:43 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[AI-OPS](https://github.com/aryamehta0302/AI-OPS)**
-- **Stack:** Python  |  **Stars:** 1
+- **[Portfolio](https://github.com/aryamehta0302/Portfolio)**
+- **Stack:** JavaScript  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -210,10 +210,10 @@
 ## 🧪 Weekly Build Summary
 
 <!-- WEEKLY_SUMMARY_START -->
-- ✅ Push events (7d): **8**
-- 🔀 Pull request events (7d): **2**
+- ✅ Push events (7d): **0**
+- 🔀 Pull request events (7d): **0**
 - 🐞 Issue events (7d): **0**
-- 🧭 Repositories touched (7d): **1**
+- 🧭 Repositories touched (7d): **0**
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
@@ -222,8 +222,8 @@
 
 <!-- BLOG_POSTS_START -->
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
-- 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
 - 🔭 [Aether-Studio](https://github.com/aryamehta0302/Aether-Studio) — latest repo activity
+- 🔭 [DEZAI](https://github.com/aryamehta0302/DEZAI) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
 ---
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _The best architectures emerge from simplicity, not complexity._
+> _Debug with data, not assumptions. Optimize with metrics, not intuition._
 <!-- DAILY_QUOTE_END -->
 
 ---
