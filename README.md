@@ -77,9 +77,9 @@
 
 <!-- DYNAMIC_METRICS_START -->
 - 🚀 **Public repositories:** 36
-- ⭐ **Total stars earned:** 2
+- ⭐ **Total stars earned:** 3
 - 👥 **Followers:** 13  |  **Following:** 19
-- 🕒 **Last refresh:** 18 Jul 2026, 12:54 UTC
+- 🕒 **Last refresh:** 19 Jul 2026, 01:51 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,7 +148,7 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[Portfolio](https://github.com/aryamehta0302/Portfolio)**
+- **[EcommerceStore](https://github.com/aryamehta0302/EcommerceStore)**
 - **Stack:** JavaScript  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
@@ -221,9 +221,9 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
+- 🔭 [DEZAI](https://github.com/aryamehta0302/DEZAI) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
 - 🔭 [Aether-Studio](https://github.com/aryamehta0302/Aether-Studio) — latest repo activity
-- 🔭 [DEZAI](https://github.com/aryamehta0302/DEZAI) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
 ---
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _Debug with data, not assumptions. Optimize with metrics, not intuition._
+> _Great ML systems are not just accurate — they are observable, reproducible, and maintainable._
 <!-- DAILY_QUOTE_END -->
 
 ---
