@@ -76,10 +76,10 @@
 <br>
 
 <!-- DYNAMIC_METRICS_START -->
-- 🚀 **Public repositories:** 36
-- ⭐ **Total stars earned:** 3
+- 🚀 **Public repositories:** 37
+- ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 15  |  **Following:** 19
-- 🕒 **Last refresh:** 20 Jul 2026, 13:49 UTC
+- 🕒 **Last refresh:** 21 Jul 2026, 01:51 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[aiml036](https://github.com/aryamehta0302/aiml036)**
-- **Stack:** Mixed  |  **Stars:** 0
+- **[animewear](https://github.com/aryamehta0302/animewear)**
+- **Stack:** HTML  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -210,10 +210,10 @@
 ## 🧪 Weekly Build Summary
 
 <!-- WEEKLY_SUMMARY_START -->
-- ✅ Push events (7d): **0**
-- 🔀 Pull request events (7d): **0**
+- ✅ Push events (7d): **8**
+- 🔀 Pull request events (7d): **2**
 - 🐞 Issue events (7d): **0**
-- 🧭 Repositories touched (7d): **0**
+- 🧭 Repositories touched (7d): **1**
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
@@ -221,9 +221,9 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
+- 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
 - 🔭 [DEZAI](https://github.com/aryamehta0302/DEZAI) — latest repo activity
-- 🔭 [Aether-Studio](https://github.com/aryamehta0302/Aether-Studio) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
 ---
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _Speed in AI comes from clear abstractions, not chaos._
+> _A model in a notebook is an idea. A model in production is engineering._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/C0DPdy98e4c
+🎧 **Now Playing:** https://youtu.be/kXYiU_JCYtU
 
 ---
 
