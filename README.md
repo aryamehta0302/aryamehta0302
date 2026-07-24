@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 37
 - ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 15  |  **Following:** 19
-- 🕒 **Last refresh:** 23 Jul 2026, 13:26 UTC
+- 🕒 **Last refresh:** 24 Jul 2026, 01:53 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[EcommerceStore](https://github.com/aryamehta0302/EcommerceStore)**
-- **Stack:** JavaScript  |  **Stars:** 0
+- **[RAG-ScaleX](https://github.com/aryamehta0302/RAG-ScaleX)**
+- **Stack:** Python  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _The best developer branding is shipping useful things consistently._
+> _Reliable AI beats flashy demos every single time._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/kXYiU_JCYtU
+🎧 **Now Playing:** https://youtu.be/2vjPBrBU-TM
 
 ---
 
