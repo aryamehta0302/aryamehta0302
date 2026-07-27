@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 37
 - ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 15  |  **Following:** 19
-- 🕒 **Last refresh:** 27 Jul 2026, 02:05 UTC
+- 🕒 **Last refresh:** 27 Jul 2026, 14:12 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -210,10 +210,10 @@
 ## 🧪 Weekly Build Summary
 
 <!-- WEEKLY_SUMMARY_START -->
-- ✅ Push events (7d): **8**
+- ✅ Push events (7d): **12**
 - 🔀 Pull request events (7d): **0**
 - 🐞 Issue events (7d): **0**
-- 🧭 Repositories touched (7d): **1**
+- 🧭 Repositories touched (7d): **2**
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
@@ -221,9 +221,9 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
-- 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
+- 🔭 [Portfolio1](https://github.com/aryamehta0302/Portfolio1) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
-- 🔭 [DEZAI](https://github.com/aryamehta0302/DEZAI) — latest repo activity
+- 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
 ---
