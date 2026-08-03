@@ -76,10 +76,10 @@
 <br>
 
 <!-- DYNAMIC_METRICS_START -->
-- 🚀 **Public repositories:** 37
+- 🚀 **Public repositories:** 38
 - ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 15  |  **Following:** 19
-- 🕒 **Last refresh:** 03 Aug 2026, 01:59 UTC
+- 🕒 **Last refresh:** 03 Aug 2026, 14:18 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,9 +148,9 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[Neaural-Network-Visualizer](https://github.com/aryamehta0302/Neaural-Network-Visualizer)**
+- **[aryamehta0302](https://github.com/aryamehta0302/aryamehta0302)**
 - **Stack:** Python  |  **Stars:** 0
-- **Summary:** No description available.
+- **Summary:** Config files for my GitHub profile.
 <!-- RANDOM_PROJECT_END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -210,7 +210,7 @@
 ## 🧪 Weekly Build Summary
 
 <!-- WEEKLY_SUMMARY_START -->
-- ✅ Push events (7d): **5**
+- ✅ Push events (7d): **4**
 - 🔀 Pull request events (7d): **0**
 - 🐞 Issue events (7d): **0**
 - 🧭 Repositories touched (7d): **2**
@@ -221,9 +221,9 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
+- 🔭 [presentation](https://github.com/aryamehta0302/presentation) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
 - 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
-- 🔭 [Portfolio1](https://github.com/aryamehta0302/Portfolio1) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
 ---
