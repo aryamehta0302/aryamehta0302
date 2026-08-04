@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 38
 - ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 15  |  **Following:** 19
-- 🕒 **Last refresh:** 03 Aug 2026, 14:18 UTC
+- 🕒 **Last refresh:** 04 Aug 2026, 01:44 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,9 +148,9 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[aryamehta0302](https://github.com/aryamehta0302/aryamehta0302)**
-- **Stack:** Python  |  **Stars:** 0
-- **Summary:** Config files for my GitHub profile.
+- **[animewear](https://github.com/aryamehta0302/animewear)**
+- **Stack:** HTML  |  **Stars:** 0
+- **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -221,8 +221,8 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
-- 🔭 [presentation](https://github.com/aryamehta0302/presentation) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
+- 🔭 [presentation](https://github.com/aryamehta0302/presentation) — latest repo activity
 - 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _Speed in AI comes from clear abstractions, not chaos._
+> _A model in a notebook is an idea. A model in production is engineering._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/09R8_2nJtjg
+🎧 **Now Playing:** https://youtu.be/C0DPdy98e4c
 
 ---
 
