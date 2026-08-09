@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 38
 - ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 15  |  **Following:** 19
-- 🕒 **Last refresh:** 09 Aug 2026, 01:01 UTC
+- 🕒 **Last refresh:** 09 Aug 2026, 12:31 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -221,8 +221,8 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
-- 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
+- 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
 - 🔭 [presentation](https://github.com/aryamehta0302/presentation) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
