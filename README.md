@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 38
 - ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 15  |  **Following:** 19
-- 🕒 **Last refresh:** 10 Aug 2026, 12:47 UTC
+- 🕒 **Last refresh:** 11 Aug 2026, 01:03 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype)**
-- **Stack:** TypeScript  |  **Stars:** 1
+- **[CodeAlpha_Chatbot-for-FAQs](https://github.com/aryamehta0302/CodeAlpha_Chatbot-for-FAQs)**
+- **Stack:** Python  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -221,8 +221,8 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
-- 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
 - 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
+- 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
 - 🔭 [presentation](https://github.com/aryamehta0302/presentation) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _Write code that your future self will thank you for._
+> _Every commit is a small promise to your project's future._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/oygrmJFKYZY
+🎧 **Now Playing:** https://youtu.be/dQw4w9WgXcQ
 
 ---
 
