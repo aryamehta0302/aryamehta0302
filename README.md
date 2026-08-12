@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 38
 - ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 15  |  **Following:** 19
-- 🕒 **Last refresh:** 12 Aug 2026, 01:10 UTC
+- 🕒 **Last refresh:** 12 Aug 2026, 12:47 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[animewear](https://github.com/aryamehta0302/animewear)**
-- **Stack:** HTML  |  **Stars:** 0
+- **[Stock-price-calculator](https://github.com/aryamehta0302/Stock-price-calculator)**
+- **Stack:** Jupyter Notebook  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
