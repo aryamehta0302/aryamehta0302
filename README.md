@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 38
 - ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 15  |  **Following:** 19
-- 🕒 **Last refresh:** 14 Aug 2026, 12:43 UTC
+- 🕒 **Last refresh:** 15 Aug 2026, 00:43 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[BLOGSPOT](https://github.com/aryamehta0302/BLOGSPOT)**
-- **Stack:** JavaScript  |  **Stars:** 0
+- **[MERN-STACK-WORK](https://github.com/aryamehta0302/MERN-STACK-WORK)**
+- **Stack:** Mixed  |  **Stars:** 1
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -221,9 +221,9 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
-- 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
 - 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
-- 🔭 [presentation](https://github.com/aryamehta0302/presentation) — latest repo activity
+- 🔭 [EcommerceStore](https://github.com/aryamehta0302/EcommerceStore) — latest repo activity
+- 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
 ---
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _The best architectures emerge from simplicity, not complexity._
+> _Debug with data, not assumptions. Optimize with metrics, not intuition._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/fLexgOxsZu0
+🎧 **Now Playing:** https://youtu.be/dQw4w9WgXcQ
 
 ---
 
