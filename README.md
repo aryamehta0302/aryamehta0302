@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 39
 - ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 17  |  **Following:** 19
-- 🕒 **Last refresh:** 30 Aug 2026, 15:45 UTC
+- 🕒 **Last refresh:** 31 Aug 2026, 02:33 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype)**
-- **Stack:** TypeScript  |  **Stars:** 1
+- **[presentation](https://github.com/aryamehta0302/presentation)**
+- **Stack:** TypeScript  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _Great ML systems are not just accurate — they are observable, reproducible, and maintainable._
+> _Speed in AI comes from clear abstractions, not chaos._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/dQw4w9WgXcQ
+🎧 **Now Playing:** https://youtu.be/C0DPdy98e4c
 
 ---
 
