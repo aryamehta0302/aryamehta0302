@@ -78,8 +78,8 @@
 <!-- DYNAMIC_METRICS_START -->
 - 🚀 **Public repositories:** 39
 - ⭐ **Total stars earned:** 4
-- 👥 **Followers:** 17  |  **Following:** 19
-- 🕒 **Last refresh:** 05 Oct 2026, 03:12 UTC
+- 👥 **Followers:** 18  |  **Following:** 19
+- 🕒 **Last refresh:** 06 Oct 2026, 04:00 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,7 +148,7 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[Particle-Testing](https://github.com/aryamehta0302/Particle-Testing)**
+- **[presentation](https://github.com/aryamehta0302/presentation)**
 - **Stack:** TypeScript  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _Write code that your future self will thank you for._
+> _Every commit is a small promise to your project's future._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/oygrmJFKYZY
+🎧 **Now Playing:** https://youtu.be/2vjPBrBU-TM
 
 ---
 
