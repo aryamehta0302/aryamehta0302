@@ -78,8 +78,8 @@
 <!-- DYNAMIC_METRICS_START -->
 - 🚀 **Public repositories:** 39
 - ⭐ **Total stars earned:** 4
-- 👥 **Followers:** 18  |  **Following:** 19
-- 🕒 **Last refresh:** 16 Oct 2026, 02:24 UTC
+- 👥 **Followers:** 17  |  **Following:** 19
+- 🕒 **Last refresh:** 16 Oct 2026, 15:49 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
