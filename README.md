@@ -76,10 +76,10 @@
 <br>
 
 <!-- DYNAMIC_METRICS_START -->
-- 🚀 **Public repositories:** 39
+- 🚀 **Public repositories:** 40
 - ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 16  |  **Following:** 19
-- 🕒 **Last refresh:** 25 Oct 2026, 15:18 UTC
+- 🕒 **Last refresh:** 26 Oct 2026, 02:27 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[Aether-Studio](https://github.com/aryamehta0302/Aether-Studio)**
-- **Stack:** TypeScript  |  **Stars:** 0
+- **[RAG-ScaleX](https://github.com/aryamehta0302/RAG-ScaleX)**
+- **Stack:** Python  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -213,7 +213,7 @@
 - ✅ Push events (7d): **0**
 - 🔀 Pull request events (7d): **0**
 - 🐞 Issue events (7d): **0**
-- 🧭 Repositories touched (7d): **0**
+- 🧭 Repositories touched (7d): **1**
 <!-- WEEKLY_SUMMARY_END -->
 
 ---
@@ -221,9 +221,9 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
+- 🔭 [logo](https://github.com/aryamehta0302/logo) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
 - 🔭 [workshop-notebooks](https://github.com/aryamehta0302/workshop-notebooks) — latest repo activity
-- 🔭 [Dezai-Prototype](https://github.com/aryamehta0302/Dezai-Prototype) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
 ---
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _Great ML systems are not just accurate — they are observable, reproducible, and maintainable._
+> _Speed in AI comes from clear abstractions, not chaos._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/2vjPBrBU-TM
+🎧 **Now Playing:** https://youtu.be/dQw4w9WgXcQ
 
 ---
 
