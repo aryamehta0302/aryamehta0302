@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 40
 - ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 16  |  **Following:** 19
-- 🕒 **Last refresh:** 09 Nov 2026, 21:46 UTC
+- 🕒 **Last refresh:** 10 Nov 2026, 05:23 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[AIML-Department-chatbot](https://github.com/aryamehta0302/AIML-Department-chatbot)**
-- **Stack:** HTML  |  **Stars:** 0
+- **[Resume-builder](https://github.com/aryamehta0302/Resume-builder)**
+- **Stack:** TypeScript  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _Speed in AI comes from clear abstractions, not chaos._
+> _A model in a notebook is an idea. A model in production is engineering._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/C0DPdy98e4c
+🎧 **Now Playing:** https://youtu.be/oygrmJFKYZY
 
 ---
 
