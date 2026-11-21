@@ -79,7 +79,7 @@
 - 🚀 **Public repositories:** 40
 - ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 16  |  **Following:** 19
-- 🕒 **Last refresh:** 20 Nov 2026, 19:27 UTC
+- 🕒 **Last refresh:** 21 Nov 2026, 04:55 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,8 +148,8 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[CARD](https://github.com/aryamehta0302/CARD)**
-- **Stack:** JavaScript  |  **Stars:** 0
+- **[AIML-Department-chatbot](https://github.com/aryamehta0302/AIML-Department-chatbot)**
+- **Stack:** HTML  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
 
@@ -231,7 +231,7 @@
 ## 💡 AI Daily Quote
 
 <!-- DAILY_QUOTE_START -->
-> _The best architectures emerge from simplicity, not complexity._
+> _Debug with data, not assumptions. Optimize with metrics, not intuition._
 <!-- DAILY_QUOTE_END -->
 
 ---
@@ -239,7 +239,7 @@
 ## 🎧 Coding Playlist
 
 <!-- RANDOM_SONG -->
-🎧 **Now Playing:** https://youtu.be/2vjPBrBU-TM
+🎧 **Now Playing:** https://youtu.be/kXYiU_JCYtU
 
 ---
 
