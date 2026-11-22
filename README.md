@@ -76,10 +76,10 @@
 <br>
 
 <!-- DYNAMIC_METRICS_START -->
-- 🚀 **Public repositories:** 40
+- 🚀 **Public repositories:** 42
 - ⭐ **Total stars earned:** 4
 - 👥 **Followers:** 16  |  **Following:** 19
-- 🕒 **Last refresh:** 22 Nov 2026, 04:14 UTC
+- 🕒 **Last refresh:** 22 Nov 2026, 18:51 UTC
 <!-- DYNAMIC_METRICS_END -->
 
 </details>
@@ -148,7 +148,7 @@
 
 <!-- RANDOM_PROJECT_START -->
 ### 🎲 Dynamic Project Spotlight
-- **[animewear](https://github.com/aryamehta0302/animewear)**
+- **[TODO_APP](https://github.com/aryamehta0302/TODO_APP)**
 - **Stack:** HTML  |  **Stars:** 0
 - **Summary:** No description available.
 <!-- RANDOM_PROJECT_END -->
@@ -221,9 +221,9 @@
 ## 📰 Latest Writing & Dev Notes
 
 <!-- BLOG_POSTS_START -->
+- 🔭 [summer-internship](https://github.com/aryamehta0302/summer-internship) — latest repo activity
+- 🔭 [DEZAI-OFFICIAL](https://github.com/aryamehta0302/DEZAI-OFFICIAL) — latest repo activity
 - 🔭 [aryamehta0302](https://github.com/aryamehta0302/aryamehta0302) — latest repo activity
-- 🔭 [logo](https://github.com/aryamehta0302/logo) — latest repo activity
-- 🔭 [workshop-notebooks](https://github.com/aryamehta0302/workshop-notebooks) — latest repo activity
 <!-- BLOG_POSTS_END -->
 
 ---
